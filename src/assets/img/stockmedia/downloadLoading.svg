@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="8" cy="8" r="8" fill="black" fill-opacity="0.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 8C4 10.2091 5.79086 12 8 12C8.82092 12 9.58409 11.7527 10.2191 11.3285L10.7738 12.1607C9.98011 12.6909 9.02615 13 8 13C5.23858 13 3 10.7614 3 8C3 5.23858 5.23858 3 8 3C10.7614 3 13 5.23858 13 8H12C12 5.79086 10.2091 4 8 4C5.79086 4 4 5.79086 4 8Z" fill="url(#paint0_angular_11277_105376)"/>
+<defs>
+<radialGradient id="paint0_angular_11277_105376" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8 8) scale(6)">
+<stop offset="0.000476404" stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0.1"/>
+</radialGradient>
+</defs>
+</svg>
